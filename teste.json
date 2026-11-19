@@ -1,0 +1,6 @@
+{
+ "quando": "2026-11-19T22:19:39",
+ "google": "ok",
+ "cloudflare": "erro: HTTP 401: {\"success\":false,\"errors\":[{\"code\":10000,\"message\":\"Authentication error\"}],\"messages\":[],\"result\":null}\n",
+ "instagram": "faltando"
+}
